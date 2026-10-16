@@ -1,5 +1,7 @@
 # Week 6: Learning NumPy, Pandas, and SQL Through Practical Data Work
 
+![Week 6: Learning NumPy, Pandas, and SQL](images/week6-cover.svg)
+
 Original article: https://medium.com/@faithinnocent774/week-6-learning-numpy-pandas-and-sql-through-practical-data-work-ac02d0c37e07
 
 Author: @faithinnocent774 (posted with permission)
